@@ -14,10 +14,25 @@ let sum = 0;
 for (let i = 0; i < 5; i++) {
     number = parseInt(prompt('Inserisci un numero'))
     console.log(number)
-    sum += number
+    sum += number;
 }
 console.log(sum)
 
 */
 
 // ESERCIZIO CON WHILE
+
+let number;
+
+let sum = 0;
+
+let i = 0;
+while (i < 5) {
+    number = parseInt(prompt('Inserisci un numero'))
+    console.log(number);
+    sum += number;
+    i++;
+}
+
+
+console.log(sum)

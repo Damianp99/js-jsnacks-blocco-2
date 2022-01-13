@@ -20,7 +20,7 @@ console.log(sum)
 
 */
 
-// ESERCIZIO CON WHILE
+// ESERCIZIO CON WHILE PROVARE A STAMPARE DOPO
 
 let number;
 

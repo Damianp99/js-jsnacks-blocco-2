@@ -3,8 +3,9 @@
 // Esegui questo programma in due versioni, con il for e con il while.
 
 /*
-ESERCIZIO CON FOR 
-*/
+ESERCIZIO CON FOR
+- MAGARI PROVO A STAMPARE DOPO.
+
 
 let number;
 
@@ -16,3 +17,7 @@ for (let i = 0; i < 5; i++) {
     sum += number
 }
 console.log(sum)
+
+*/
+
+// ESERCIZIO CON WHILE
